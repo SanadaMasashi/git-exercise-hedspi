@@ -1,0 +1,14 @@
+これは基本となるファイルです
+
+```
+Ruby on Rails（ルビーオンレイルズ）は、オープンソースのWebアプリケーションフレームワークである。RoRまたは単にRailsと呼ばれる。
+そのにも示されているようにRubyでかかれている。またModel View Controller（MVC）アーキテクチャに基づいて構築されている。
+
+Railsの基本理念は「同じことを繰り返さない」（DRY:Don't Repeat Yourself）と「設定より規約」（CoC:Convention over Configuration）である。「同じことを繰り返さない」というのは、「定義などの作業は一回だけで済ませろ」との意味である
+
+Railsの公式なパッケージはRubyのライブラリやアプリケーションの流通ルートであるRubyGemsにより配布されている。
+
+RoRのMVCアーキテクチャ
+Rails上のMVCアーキテクチャは次のとおりである（Action Packは、この中のViewとControllerのことを指している）。
+```
+
